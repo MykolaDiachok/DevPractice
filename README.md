@@ -13,8 +13,15 @@ The main task is to optimize, improve and cover unit tests of this code using de
 3. Think over unit tests coverage
 
 ### Expanding the capabilities of the controller
-1. Do a post method
+1. Add a new add & update method
 2. Add a new get method with parameters
+3. Don't forget to use for response return and error handling schemes. 
+4. What response types and how can use in this project?
+5. How do you make this clear to Swagger?
 
 
-It is strongly requested use SOLID Design Principles during development. Before starting work, find and describe the SOLID issue in implementation and describe how you plan to fix them.
+### Unit tests
+1. Create external project for unit tests
+2. The percentage of test coverage of your code should exceed 70 percent.
+
+It is strongly requested use SOLID Design Principles during development. Before starting work, find and describe the SOLID issues in implementation and describe how you plan to fix them.
