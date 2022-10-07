@@ -9,7 +9,7 @@ The main task is to optimize, improve and cover unit tests of this code using de
 
 ### Develop logging subsystem.
 1. Choose the logging system that you think will be optimal for use.
-2. Think over the expansion logging system
+2. Think over extending the capabilities of the logging system
 3. Think over unit tests coverage
 
 ### Expanding the capabilities of the controller
